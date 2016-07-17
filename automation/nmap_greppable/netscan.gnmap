@@ -1,0 +1,10 @@
+# Nmap 6.49BETA5 scan initiated Wed Jul  6 23:41:56 2016 as: nmap -oA netscan 10.10.10.1-255
+Host: 10.10.10.1 ()	Status: Up
+Host: 10.10.10.1 ()	Ports: 22/open/tcp//ssh///	Ignored State: closed (999)
+Host: 10.10.10.10 ()	Status: Up
+Host: 10.10.10.10 ()	Ports: 22/open/tcp//ssh///, 25/open/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 110/open/tcp//pop3///, 139/open/tcp//netbios-ssn///, 143/open/tcp//imap///, 445/open/tcp//microsoft-ds///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 8080/open/tcp//http-proxy///	Ignored State: closed (989)
+Host: 10.10.10.11 ()	Status: Up
+Host: 10.10.10.11 ()	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 23/open/tcp//telnet///, 25/open/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 111/open/tcp//rpcbind///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 512/open/tcp//exec///, 513/open/tcp//login///, 514/open/tcp//shell///, 1099/open/tcp//rmiregistry///, 1524/open/tcp//ingreslock///, 2049/open/tcp//nfs///, 2121/open/tcp//ccproxy-ftp///, 3306/open/tcp//mysql///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 6000/open/tcp//X11///, 6667/open/tcp//irc///, 8009/open/tcp//ajp13///, 8180/open/tcp//unknown///	Ignored State: closed (977)
+Host: 10.10.10.12 ()	Status: Up
+Host: 10.10.10.12 ()	Ports: 7/open/tcp//echo///, 9/open/tcp//discard///, 13/open/tcp//daytime///, 17/open/tcp//qotd///, 19/open/tcp//chargen///, 21/open/tcp//ftp///, 25/open/tcp//smtp///, 80/open/tcp//http///, 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 1025/open/tcp//NFS-or-IIS///, 1026/open/tcp//LSA-or-nterm///, 1027/open/tcp//IIS///, 1028/open/tcp//unknown///, 1030/open/tcp//iad1///, 1801/open/tcp//msmq///, 2103/open/tcp//zephyr-clt///, 2105/open/tcp//eklogin///, 2107/open/tcp//msmq-mgmt///, 3389/open/tcp//ms-wbt-server///	Ignored State: closed (979)
+# Nmap done at Wed Jul  6 23:41:59 2016 -- 255 IP addresses (4 hosts up) scanned in 3.44 seconds
